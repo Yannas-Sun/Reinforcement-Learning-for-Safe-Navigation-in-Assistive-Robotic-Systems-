@@ -218,6 +218,8 @@ Potential extensions include:
 
 This repository is intended for educational and research purposes. It is not a clinically validated navigation system or safety-certified robotic controller.
 
+The related source code was used exclusively for the UCL COMP0037: Robotic Systems course and will not be made publicly available.
+
 ---
 
 ## Keywords
